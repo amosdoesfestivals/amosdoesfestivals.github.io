@@ -104,7 +104,7 @@ title: Fringe Reviews
                 <tr>
                     <td>
                         {% assign starCount = review.star.size | size %}
-                        {% assign missingStars = 5-starCount
+                        {% assign missingStars = 5-starCount %}
                         <div class="star-rating">
                            {% for i in (1..starCount) %}★{% endfor %}
                            {% for i in (1..missingStars) %}☆{% endfor %}
