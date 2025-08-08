@@ -9,6 +9,8 @@ CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT_MJinpAc6B5fMp4TY7l
 response = requests.get(CSV_URL)
 response.raise_for_status()  # Ensure we got a successful response
 
+response.encoding = 'utf-8'
+
 # Define headers according to the order
 headers = ['Rank', 'Name', 'Star', 'Rating', 'Producer', 'Location', 'Review', 'URL']
 
@@ -34,6 +36,7 @@ with open('./_data/reviews.yaml', 'w', encoding='utf-8') as yaml_file:
     yaml.dump(yaml_data, yaml_file, sort_keys=False, default_flow_style=False)
 
 print("Data has been successfully converted to YAML and saved to reviews.yaml.")
+
 
 
 
