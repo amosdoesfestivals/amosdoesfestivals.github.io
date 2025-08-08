@@ -100,7 +100,7 @@ title: Fringe Reviews
                 </tr>
             </thead>
             <tbody>
-                {% for review in site.data.reviews | sort: "rank" %}
+                {% for review in (site.data.reviews | sort: "rank", "last") %}
                 <tr>
                     <td>
                         {% assign starCount = review.star | size %}
