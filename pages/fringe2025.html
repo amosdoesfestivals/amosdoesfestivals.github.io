@@ -103,8 +103,9 @@ title: Fringe Reviews
                 {% for review in site.data.reviews | sort: 'rank' | reverse %}
                 <tr>
                     <td>
+                        {% assign starCount = review.star.size | size %}
                         <div class="star-rating">
-                            {{ '★' | times: review.star.size | size }}{{ '☆' | times: (5 | minus: review.star.size | size) }}
+                            {{ '★' | repeat: starCount  }}{{ '☆' | repeat: 5 | minus: starCount }}
                         </div>
                         <div>{{ review.rating }}</div>
                     </td>
