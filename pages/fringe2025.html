@@ -108,8 +108,8 @@ title: Fringe Reviews
                         <div class="star-rating">
                           {{starCount}}
                           {{missingStars}}
-                           {% for i in (1..starCount) %}★{% endfor %}
-                           {% for i in (1..missingStars) %}☆{% endfor %}
+                           {% for i in (1..starCount) %}'★'{% endfor %}
+                           {% for i in (1..missingStars) %}'☆'{% endfor %}
                         </div>
                         <div>{{ review.rating }}</div>
                     </td>
