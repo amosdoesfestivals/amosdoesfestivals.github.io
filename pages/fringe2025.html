@@ -106,6 +106,8 @@ title: Fringe Reviews
                         {% assign starCount = review.star | size %}
                         {% assign missingStars = (5-starCount) %}
                         <div class="star-rating">
+                          {{starCount}}
+                          {{missingStars}}
                            {% for i in (1..starCount) %}★{% endfor %}
                            {% for i in (1..missingStars) %}☆{% endfor %}
                         </div>
