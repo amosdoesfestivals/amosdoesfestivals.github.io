@@ -104,14 +104,14 @@ title: Fringe Reviews
                 <tr>
                     <td>
                         <div class="star-rating">
-                            {{ '★' | times: review.star.size }}{{ '☆' | times: 5 | minus: review.star.size }}
+                            {{ '★' | times: review.star.size.size }}{{ '☆' | times: 5 | minus: review.star.size.size }}
                         </div>
                         <div>{{ review.rating }}</div>
                     </td>
                     <td>
-                        <strong><a href="{{ review.link }}" target="_blank">{{ review.showName }}</a></strong><br>
-                        {{ review.company }}<br>
-                        <b>{{ review.venue }}</b>
+                        <strong><a href="{{ review.url }}" target="_blank">{{ review.name }}</a></strong><br>
+                        {{ review.producer }}<br>
+                        <b>{{ review.location }}</b>
                     </td>
                     <td>{{ review.review }}</td>
                 </tr>
