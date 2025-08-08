@@ -1,0 +1,61 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Bayesian and Neural Systems
+alttitle:            BayesWatch
+tagline:             Machine learning research group in Edinburgh 
+url:                 http://bayeswatch.github.io
+paginate:            10
+paginate_path:       "posts/page:num"
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Amos Storkey and group members
+  url:               https://homepages.inf.ed.ac.uk/amos
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-redirect-from
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-scholar
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Kramdown
+kramdown:
+  entity_output: :as_input
+
+
+# Collections
+
+collections:
+  projects:
+    output: true
