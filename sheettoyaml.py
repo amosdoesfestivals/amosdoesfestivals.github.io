@@ -19,7 +19,7 @@ reader = csv.DictReader(csv_data, fieldnames=headers)
 yaml_data = []
 for row in reader:
     yaml_data.append({
-        'rank': row['Rank'],
+        'rank': int(row['Rank']),
         'name': row['Name'],
         'star': row['Star'],
         'rating': row['Rating'],
@@ -34,5 +34,6 @@ with open('./_data/reviews.yaml', 'w') as yaml_file:
     yaml.dump(yaml_data, yaml_file, sort_keys=False, default_flow_style=False)
 
 print("Data has been successfully converted to YAML and saved to reviews.yaml.")
+
 
 
