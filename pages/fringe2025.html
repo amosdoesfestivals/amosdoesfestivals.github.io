@@ -100,11 +100,11 @@ title: Fringe Reviews
                 </tr>
             </thead>
             <tbody>
-                {% for review in site.data.reviews | sort: 'score' | reverse %}
+                {% for review in site.data.reviews | sort: 'rank' | reverse %}
                 <tr>
                     <td>
                         <div class="star-rating">
-                            {{ '★' | times: review.stars.size }}{{ '☆' | times: 5 | minus: review.stars.size }}
+                            {{ '★' | times: review.star.size }}{{ '☆' | times: 5 | minus: review.star.size }}
                         </div>
                         <div>{{ review.rating }}</div>
                     </td>
