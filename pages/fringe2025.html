@@ -108,7 +108,7 @@ title: Fringe Reviews
                            {% for i in (1..starCount) %}
                               ★ 
                            {% endfor %}
-                           {% for i in (starCount+1..5) %}
+                           {% for i in (1..(5-starCount)) %}
                               ☆
                            {% endfor %}
                         </div>
