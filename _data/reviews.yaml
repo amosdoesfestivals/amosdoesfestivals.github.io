@@ -60,8 +60,8 @@
   location: Zoo Southside
   review: "Important story, and a sad reflection on the world that this tale of the\
     \ deadly tribulations in Gaza is over 20 years old, and things are only worse.\
-    \ However I fear this monologue of a diary doesn\xE2\x80\x99t convert so well\
-    \ to the fringe important though it might be."
+    \ However I fear this monologue of a diary doesn\u2019t convert so well to the\
+    \ fringe important though it might be."
   url: https://www.edfringe.com/tickets/whats-on/my-name-is-rachel-corrie
 - rank: 78
   name: Triptych Redux
@@ -153,6 +153,6 @@
   review: "Billed as an alternative take on the Merchant of Venice, but really just\
     \ an amdram word for word replay of snippets of the Shakespeare with an unconvincing\
     \ alternative ending. Its only benefit is it might remind you of better performances\
-    \ of this, one of Shakespeare\xE2\x80\x99s better plays, that you may have seen\
-    \ in the past."
+    \ of this, one of Shakespeare\u2019s better plays, that you may have seen in the\
+    \ past."
   url: https://www.edfringe.com/tickets/whats-on/a-pound-of-flesh
