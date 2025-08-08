@@ -30,7 +30,7 @@ for row in reader:
     })
 
 # Write to a YAML file
-with open('./_data/reviews.yaml', 'w') as yaml_file:
+with open('./_data/reviews.yaml', 'w', encoding='utf-8') as yaml_file:
     yaml.dump(yaml_data, yaml_file, sort_keys=False, default_flow_style=False)
 
 print("Data has been successfully converted to YAML and saved to reviews.yaml.")
