@@ -1,0 +1,134 @@
+---
+layout: blank
+permalink: /fringe2024/
+redirect_from:
+  - /fringe2024
+author: Amos Storkey
+title: Edinburgh Fringe Reviews 2024
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            color: #333;
+            background-color: #f4f8fb;
+        }
+        header {
+            text-align: center;
+            background: linear-gradient(135deg, #003366, #0056b3);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        #preamble, #additional-commentary {
+            background-color: #e9f1f7;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            max-width: 800px;
+            border-collapse: collapse;
+            margin: 0 auto 20px auto;
+            min-width: 600px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            vertical-align: top;
+        }
+        th {
+            background-color: #0056b3;
+            color: white;
+        }
+        .star-rating {
+            color: #8b0000;
+            font-size: 1.5em;
+        }
+        .times {
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            th, td {
+                padding: 10px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fringe Shows 2025</h1>
+    </header>
+    
+    <section id="preamble">
+        <p>My name is Amos Storkey - I am an academic, an Edinburgh resident and love the Festivals. Home is the best place to be in the whole world in August :). 
+        </p><p>These brief show reviews (mostly fringe, but sometimes others) are provided as people keep asking for them and seem to find them useful. A great play differs from a bad one, but these reviews are all personal opinion, do not indicate any sort of agreement with any performance, and your mileage may vary. Together with my wife, we have been festivalling for over a quarter of a century, so we have become fairly good at picking what is likely to have a chance of being good, but I still try to throw in randomness to try to prevent me just reinforcing my biases.
+        </p><p>In general, I find good plays and some physical theatre more long-term memorable and reflective than comedy (with some exceptions), though I do enjoy a good comic. 
+        </p><p>The order here is my ranking. My star ratings are designed to match the usual expectations for such things (maybe a bit harsher than some), but I also provide a more fine-tuned rating. These are: (1*) awful, (1*) bad, (2*) poor,
+        (3*, but wouldn't go again in a Groundhog Day) okay, (3* but might choose to redo) fair, (4*) good, (4*) very good, (5* - only a few a year) excellent, (5* - one a year maybe and will never forget this show) outstanding.
+        </p>        
+    </section>
+
+    <div class="table-container">
+        <table id="reviews">
+            <thead>
+                <tr>
+                    <th>Rating</th>
+                    <th style="width:28%">Show Details</th>
+                    <th>Review</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% assign sorted_reviews = site.data.reviews | sort: "rank" | reverse %}
+                {% for review in sorted_reviews %}
+                <tr>
+                    <td>
+                        {% assign starCount = review.star | size %}
+                        {% assign missingStars = 5 | minus: starCount %}
+                        <div class="star-rating">
+                           {% for i in (1..starCount) %}★{% endfor %}{% for i in (1..missingStars) %}☆{% endfor %}
+                        </div>
+                        <div>{{ review.rating }}</div>
+                    </td>
+                    <td>
+                        <strong><a href="{{ review.url }}" target="_blank">{{ review.name }}</a></strong><br>
+                        {{ review.producer }}<br>
+                        <b>{{ review.location }}</b>
+                        <div class="times">{{review.start}}{{review.end}}</div>
+                    </td>
+                    <td>{{ review.review }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <section id="additional-commentary">
+        <p>This will keep extending during the festival period, and there might be minor adjustment over time - sometimes I find I keep reflecting on a show that didn't initially tick all the boxes, and that is a good sign. If you have a show you want to recommend me, please do (as a punter, not a promoter). You will find my email online somewhere. <img width="1px" src="https://hits.sh/amosdoesfestivals.com/hits.svg"> </p>
+    </section>
+</body>
+</html>
