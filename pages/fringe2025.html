@@ -66,6 +66,9 @@ title: Fringe Reviews
             color: #8b0000;
             font-size: 1.5em;
         }
+        .times {
+            font-size: 0.8em;
+        }
         a {
             color: #0056b3;
             text-decoration: none;
@@ -115,13 +118,13 @@ title: Fringe Reviews
                            {% for i in (1..starCount) %}★{% endfor %}{% for i in (1..missingStars) %}☆{% endfor %}
                         </div>
                         <div>{{ review.rating }}</div>
-                        <div><br></div>
-                        <div>{{review.start}}-{{review.end}}</div>
                     </td>
                     <td>
                         <strong><a href="{{ review.url }}" target="_blank">{{ review.name }}</a></strong><br>
                         {{ review.producer }}<br>
                         <b>{{ review.location }}</b>
+                        <div><br></div>
+                        <div class="times">{{review.start}}-{{review.end}}</div>
                     </td>
                     <td>{{ review.review }}</td>
                 </tr>
