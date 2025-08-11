@@ -81,7 +81,7 @@ title: Edinburgh Fringe 2024 Reviews
 </head>
 <body>
     <header>
-        <h1>Fringe Shows 2025</h1>
+        <h1>Fringe Shows 2024</h1>
     </header>
     
     <section id="preamble">
@@ -103,7 +103,7 @@ title: Edinburgh Fringe 2024 Reviews
                 </tr>
             </thead>
             <tbody>
-                {% assign sorted_reviews = site.data.reviews | sort: "rank" | reverse %}
+                {% assign sorted_reviews = site.data.reviews2024 | sort: "rank" | reverse %}
                 {% for review in sorted_reviews %}
                 <tr>
                     <td>
