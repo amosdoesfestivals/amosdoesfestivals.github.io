@@ -12,7 +12,7 @@ response.raise_for_status()  # Ensure we got a successful response
 response.encoding = 'utf-8'
 
 # Define headers according to the order
-headers = ['Rank', 'Name', 'Star', 'Rating', 'Producer', 'Location', 'Review', 'URL']
+headers = ['Rank', 'Name', 'Star', 'Rating', 'Producer', 'Location', 'Review', 'Start', 'End', 'URL']
 
 # Convert CSV to a list of dictionaries
 csv_data = response.text.splitlines()
@@ -28,6 +28,8 @@ for row in reader:
         'producer': row['Producer'],
         'location': row['Location'],
         'review': row['Review'],
+        'start': row['Start'],
+        'end': row['End'],
         'url': row['URL']
     })
 
