@@ -1,0 +1,139 @@
+---
+layout: blank
+permalink: /fringe2023/
+redirect_from:
+  - /fringe2023
+  - /fringe2023/index.html
+  - /fringe2023.html
+
+author: Amos Storkey
+title: Edinburgh Fringe 2023 Reviews
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            color: #333;
+            background-color: #f4f8fb;
+        }
+        header {
+            text-align: center;
+            background: linear-gradient(135deg, #003366, #0056b3);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        #preamble, #additional-commentary {
+            background-color: #e9f1f7;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            max-width: 800px;
+            border-collapse: collapse;
+            margin: 0 auto 20px auto;
+            min-width: 600px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            vertical-align: top;
+        }
+        th {
+            background-color: #0056b3;
+            color: white;
+        }
+        .star-rating {
+            color: #8b0000;
+            font-size: 1.5em;
+        }
+        .bigpic {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 60%;
+}
+        .times {
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            th, td {
+                padding: 10px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fringe Shows 2023</h1>
+    </header>
+    
+    <section id="preamble">
+        <p>My name is Amos. These are brief historic notes on Edinburgh Fringe shows from 2023. For current shows go to <a href="https://amosdoesfestivals.com/">Edinburgh Fringe Reviews</a> 
+        </p>
+   </section>
+
+    <div class="table-container">
+        <table id="reviews">
+            <thead>
+                <tr>
+                    <th>Rating</th>
+                    <th style="width:28%">Show Details</th>
+                    <th>Review</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% assign sorted_reviews = site.data.reviews2023 | sort: "rank" | reverse %}
+                {% for review in sorted_reviews %}
+                <tr>
+                    <td>
+                        {% assign starCount = review.star | size %}
+                        {% assign missingStars = 5 | minus: starCount %}
+                        <div class="star-rating">
+                           {% for i in (1..starCount) %}★{% endfor %}{% for i in (1..missingStars) %}☆{% endfor %}
+                        </div>
+                        <div>{{ review.rating }}</div>
+                    </td>
+                    <td>
+                        <strong>{{ review.name }}</strong><br>
+                        {{ review.producer }}<br>
+                        <b>{{ review.location }}</b>
+                        <div class="times">{{review.start}}{{review.end}}</div>
+                    </td>
+                    <td>{{ review.review }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <section id="additional-commentary">
+        <p></p>
+    </section>
+</body>
+</html>
