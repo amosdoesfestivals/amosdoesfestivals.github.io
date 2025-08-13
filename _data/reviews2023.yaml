@@ -1,4 +1,4 @@
-- rank: 25
+- rank: 75
   name: Eric's Tales of the Sea
   star: SSSS
   rating: Good
@@ -9,7 +9,7 @@
   start: null
   end: null
   url: null
-- rank: 64
+- rank: 36
   name: No one is coming
   star: SS
   rating: Poor
@@ -19,7 +19,7 @@
   start: null
   end: null
   url: null
-- rank: 30
+- rank: 70
   name: Laser Kiwi
   star: SSSS
   rating: Good
@@ -29,7 +29,7 @@
   start: null
   end: null
   url: null
-- rank: 21
+- rank: 79
   name: Life and and times of Michael K
   star: SSSS
   rating: Very Good
@@ -40,7 +40,7 @@
   start: null
   end: null
   url: null
-- rank: 42
+- rank: 58
   name: 'The Ice Hole: A Cardboard Comedy'
   star: SSS
   rating: Fair
@@ -51,7 +51,7 @@
   start: null
   end: null
   url: null
-- rank: 40
+- rank: 60
   name: I love you, now what
   star: ''
   rating: Fair
@@ -65,7 +65,7 @@
   start: null
   end: null
   url: null
-- rank: 15
+- rank: 85
   name: Reclaim
   star: SSSSS
   rating: Excellent
@@ -84,7 +84,7 @@
   start: null
   end: null
   url: null
-- rank: 18
+- rank: 82
   name: 'Ed Byrne: Tragedy Plus Time'
   star: SSSS
   rating: Very Good
@@ -97,7 +97,7 @@
   start: null
   end: null
   url: null
-- rank: 54
+- rank: 46
   name: Myles and Dan Just Might Break a World Record Tonight
   star: SSS
   rating: Fair
@@ -121,7 +121,7 @@
   start: null
   end: null
   url: null
-- rank: 35
+- rank: 65
   name: Blue
   star: SSSS
   rating: Good
@@ -133,7 +133,7 @@
   start: null
   end: null
   url: null
-- rank: 22
+- rank: 78
   name: In loyal company
   star: SSSS
   rating: Very Good
@@ -144,7 +144,7 @@
   start: null
   end: null
   url: null
-- rank: 46
+- rank: 54
   name: Beautiful Evil Things
   star: SSS
   rating: Okay
@@ -156,7 +156,7 @@
   start: null
   end: null
   url: null
-- rank: 1
+- rank: 99
   name: The Fish Bowl
   star: SSSSS
   rating: Outstanding
@@ -170,7 +170,7 @@
   start: null
   end: null
   url: null
-- rank: 28
+- rank: 72
   name: Rewind
   star: SSSS
   rating: Good
@@ -182,7 +182,7 @@
   start: null
   end: null
   url: null
-- rank: 60
+- rank: 40
   name: Four
   star: SS
   rating: Poor
@@ -192,7 +192,7 @@
   start: null
   end: null
   url: null
-- rank: 5
+- rank: 95
   name: Kids with nae hame
   star: SSSSS
   rating: Excellent
@@ -206,7 +206,7 @@
   start: null
   end: null
   url: null
-- rank: 10
+- rank: 90
   name: Strategic Love
   star: SSSSS
   rating: Excellent
@@ -217,7 +217,7 @@
   start: null
   end: null
   url: null
-- rank: 44
+- rank: 56
   name: Waiting for a train at the bus stop
   star: SSS
   rating: Okay
@@ -227,7 +227,7 @@
   start: null
   end: null
   url: null
-- rank: 20
+- rank: 80
   name: Matt Forde
   star: SSSS
   rating: Very Good
@@ -239,7 +239,7 @@
   start: null
   end: null
   url: null
-- rank: 2
+- rank: 98
   name: Thunderstruck
   star: SSSSS
   rating: Outstanding
