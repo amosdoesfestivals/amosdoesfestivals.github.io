@@ -9,13 +9,13 @@
   start: null
   end: null
   url: null
-- rank: 36
+- rank: 28
   name: No one is coming
   star: SS
   rating: Poor
   producer: ''
   location: ''
-  review: No one should have gone
+  review: No one should have gone.
   start: null
   end: null
   url: null
@@ -53,7 +53,7 @@
   url: null
 - rank: 60
   name: I love you, now what
-  star: ''
+  star: SSS
   rating: Fair
   producer: ''
   location: ''
@@ -245,7 +245,7 @@
   rating: Outstanding
   producer: ''
   location: ''
-  review: Okay - I say this in 2021 actually, but it is on again and it was so good
+  review: Okay - I say this in 2022 actually, but it is on again and it was so good
     I have decided to post this review here. A piper from Fife, devoid of all tartan-tat
     stereotype, reflects on his own piping education and career, while also reflecting
     on the life of Gordon Duncan. An amazing mix of storytelling, teaching, personal
