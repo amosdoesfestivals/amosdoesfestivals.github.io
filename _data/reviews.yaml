@@ -292,7 +292,7 @@
   start: '13:45'
   end: '14:45'
   url: https://www.edfringe.com/tickets/whats-on/bloomsbury-bell
-- rank: 47
+- rank: 46
   name: LEI-LDN
   star: SSS
   rating: Fair
@@ -344,3 +344,35 @@
   start: '18:20'
   end: '19:20'
   url: https://www.edfringe.com/tickets/whats-on/amanda-hursy-carted
+- rank: 47
+  name: Almost Famous
+  star: SSS
+  rating: Fair
+  producer: NoLogoProductions
+  location: theSpace@Surgeons Hall
+  review: An actor luvvies on about her career, dropping names, and being generally
+    annoying until the admissions arrive. An exploration of what is and what could
+    have been, of what we are and what we make ourselves. A little formulaic, and
+    the acting grated a little, which is an issue in a solo performance. I wasn't
+    overwhelmed, but still happy to have seen.
+  start: Various
+  end: 50m
+  url: https://www.edfringe.com/tickets/whats-on/almost-famous
+- rank: 64
+  name: A Year and a Day
+  star: SSSS
+  rating: Good
+  producer: Raising Cain Productions
+  location: theSpace@Surgeons Hall
+  review: Solo play - Nathan has a bit of a problem. At the end of each day, he vanishes
+    and jumps forward a year without aging. As few of us have thought through how
+    such a scenario plays out, the way this plays out is actually rather interesting.
+    We are on novel ground. The solo show is acted entirely in rhyme. No doubt it
+    makes learning lines easier, it grated on me at first, but by the end I was in
+    with the flow, and it made for something a little different. As storytelling,
+    it handled the fraught relationships in difficult situations. Coming out, I was
+    surprised to find myself impressed. I had been attentive and thoroughly engaged
+    throughout, and it seemed more vivid than I expected it to be. Glad I went.
+  start: '18:45'
+  end: 50m
+  url: https://www.edfringe.com/tickets/whats-on/a-year-and-a-day
