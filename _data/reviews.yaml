@@ -1,4 +1,4 @@
-- rank: 35
+- rank: 175
   name: Tattoo
   star: SSS
   rating: Okay
@@ -10,7 +10,7 @@
   start: '21:30'
   end: '23:00'
   url: https://www.edintattoo.co.uk/
-- rank: 60
+- rank: 450
   name: Daniel Kitson
   star: SSSS
   rating: Good
@@ -23,7 +23,7 @@
   start: '10:00'
   end: '11:30'
   url: https://www.thestand.co.uk/fringe/2657/daniel-kitson-please-note-this-is-not-a-bargain
-- rank: 92
+- rank: 900
   name: After the Service - Tales of Love and Loss
   star: SSSSS
   rating: Excellent
@@ -38,7 +38,7 @@
   start: '13:00'
   end: '14:00'
   url: https://www.edfringe.com/tickets/whats-on/after-the-service-tales-of-love-and-loss
-- rank: 65
+- rank: 600
   name: Baxter vs The Bookies by Andy Linden
   star: SSSS
   rating: Good
@@ -49,7 +49,7 @@
   start: '13:00'
   end: '14:00'
   url: https://www.edfringe.com/tickets/whats-on/baxter-vs-the-bookies-by-andy-linden
-- rank: 40
+- rank: 200
   name: The Time Painter
   star: SSS
   rating: Okay
@@ -62,7 +62,7 @@
   start: '15:05'
   end: '16:05'
   url: https://www.edfringe.com/tickets/whats-on/the-time-painter
-- rank: 50
+- rank: 325
   name: My Name is Rachel Corrie
   star: SSS
   rating: Fair
@@ -75,7 +75,7 @@
   start: '19:00'
   end: '21:30'
   url: https://www.edfringe.com/tickets/whats-on/my-name-is-rachel-corrie
-- rank: 76
+- rank: 800
   name: Triptych Redux
   star: SSSS
   rating: Very good
@@ -88,7 +88,7 @@
   start: '21:30'
   end: '22:30'
   url: https://www.edfringe.com/tickets/whats-on/triptych-redux
-- rank: 62
+- rank: 500
   name: 'Jacob Nussey: Primed'
   star: SSSS
   rating: Good
@@ -99,7 +99,7 @@
   start: '19:15'
   end: '20:15'
   url: https://www.edfringe.com/tickets/whats-on/jacob-nussey-primed
-- rank: 54
+- rank: 375
   name: Imago
   star: SSS
   rating: Fair
@@ -111,7 +111,7 @@
   start: '13:00'
   end: '13:40'
   url: https://www.edfringe.com/tickets/whats-on/imago
-- rank: 80
+- rank: 825
   name: Two Pints
   star: SSSS
   rating: Very good
@@ -124,7 +124,7 @@
   start: '15:10'
   end: '16:40'
   url: https://www.edfringe.com/tickets/whats-on/two-pints
-- rank: 67
+- rank: 625
   name: Ten Thousand Hours
   star: SSSS
   rating: Good
@@ -135,7 +135,7 @@
   start: '18:00'
   end: '19:00'
   url: https://www.edfringe.com/tickets/whats-on/ten-thousand-hours
-- rank: 55
+- rank: 400
   name: Tom Stade
   star: SSS
   rating: Fair
@@ -146,7 +146,7 @@
   start: '20:30'
   end: '21:30'
   url: https://www.edfringe.com/tickets/whats-on/tom-stade-naughty-by-nature
-- rank: 57
+- rank: 425
   name: Raise the Barre
   star: SSS
   rating: Fair
@@ -159,7 +159,7 @@
   start: '15:20'
   end: '16:20'
   url: https://www.edfringe.com/tickets/whats-on/raise-the-barre
-- rank: 90
+- rank: 875
   name: Lost Lear
   star: SSSSS
   rating: Excellent
@@ -172,7 +172,7 @@
   start: Various
   end: 1h15
   url: https://www.edfringe.com/tickets/whats-on/lost-lear
-- rank: 30
+- rank: 125
   name: A Pound of Flesh
   star: SS
   rating: Poor
@@ -185,7 +185,7 @@
   start: '20:25'
   end: '21:15'
   url: https://www.edfringe.com/tickets/whats-on/a-pound-of-flesh
-- rank: 71
+- rank: 775
   name: Red Like Fruit
   star: SSSS
   rating: Very Good
@@ -203,7 +203,7 @@
   start: Various
   end: 1hr15
   url: https://www.edfringe.com/tickets/whats-on/red-like-fruit
-- rank: 70
+- rank: 725
   name: By a Thread
   star: SSSS
   rating: Very Good
@@ -217,7 +217,7 @@
   start: '15:50'
   end: '16:50'
   url: https://www.edfringe.com/tickets/whats-on/by-a-thread
-- rank: 68
+- rank: 650
   name: Blip
   star: SSSS
   rating: Very Good
@@ -228,7 +228,7 @@
   start: '19:40'
   end: '20:20'
   url: https://www.edfringe.com/tickets/whats-on/blip
-- rank: 28
+- rank: 100
   name: Absolutely Magic
   star: SS
   rating: Poor
@@ -240,7 +240,7 @@
   start: '17:45'
   end: '1835'
   url: https://www.edfringe.com/tickets/whats-on/absolutely-magic
-- rank: 66
+- rank: 575
   name: "Michael Shafar \u2013 Well Worth the Chemo"
   star: SSSS
   rating: Good
@@ -253,7 +253,7 @@
   start: '21:30'
   end: '22:15'
   url: https://www.edfringe.com/tickets/whats-on/michael-shafar-well-worth-the-chemo
-- rank: 69
+- rank: 700
   name: Consumed
   star: SSSS
   rating: Very Good
@@ -273,7 +273,7 @@
   start: Various
   end: 1hr20
   url: https://www.edfringe.com/tickets/whats-on/consumed
-- rank: 67
+- rank: 550
   name: Bloomsbury Bell
   star: SSSS
   rating: Good
@@ -292,12 +292,12 @@
   start: '13:45'
   end: '14:45'
   url: https://www.edfringe.com/tickets/whats-on/bloomsbury-bell
-- rank: 46
+- rank: 225
   name: LEI-LDN
   star: SSS
   rating: Okay
   producer: Na-Keisha Pebody, Mya Onwugbonu
-  location: ''
+  location: Pleasance Courtyard
   review: A look at the move from Leicester to London of a mixed-race Caribbean-descent
     girl. Being another play on identity, it is in big company with many shows doing
     the rounds. It was in the spirit of the fringe, with plenty of audience participation.
@@ -308,7 +308,7 @@
   start: '18:00'
   end: '19:00'
   url: https://www.edfringe.com/tickets/whats-on/lei-ldn
-- rank: 52
+- rank: 350
   name: 'Matt: Forde: Defying Calamity'
   star: SSS
   rating: Fair
@@ -328,7 +328,7 @@
   start: Various
   end: 1hr
   url: https://www.edfringe.com/tickets/whats-on/matt-forde-defying-calamity
-- rank: 48
+- rank: 275
   name: 'Amanda Hursy: Carted'
   star: SSS
   rating: Fair
@@ -344,7 +344,7 @@
   start: '18:20'
   end: '19:20'
   url: https://www.edfringe.com/tickets/whats-on/amanda-hursy-carted
-- rank: 47
+- rank: 250
   name: Almost Famous
   star: SSS
   rating: Okay
@@ -358,7 +358,7 @@
   start: Various
   end: 50m
   url: https://www.edfringe.com/tickets/whats-on/almost-famous
-- rank: 64
+- rank: 525
   name: A Year and a Day
   star: SSSS
   rating: Good
@@ -377,3 +377,119 @@
   start: '18:45'
   end: 50m
   url: https://www.edfringe.com/tickets/whats-on/a-year-and-a-day
+- rank: 925
+  name: 'Circa: Wolf'
+  star: SSSSS
+  rating: Excellent
+  producer: "Underbelly and Circa with Cham\xE4leon Berlin"
+  location: Circus Hub on the Meadows
+  review: Excellent. This is how it should be done. It had it right. The show had
+    excellent acrobatics, originality, diversity of acts, excellent showmanship, clever
+    theming and background ambience; the show had the audience on their toes. The
+    movement was fluid and there was often an element of not knowing where to look
+    given all that was happening. It moved from synchronicisty to diversity regularly.
+    Most circus shows I see are on trend. You see the same elements that everyone
+    is copying from everyone. Here you are repeatedly caught by surprise, by both
+    bit and little elements of the work. The choreography was brilliant too, smooth,
+    exciting and dynamic. I've seen Circa since they first arrived at the fringe.
+    Their first show was excellent. Circa 2.0 was good but quite similar. However
+    here, they have made a step change. This really upped the ante in my book. I was
+    very impressed and is amongst the best circus I have ever seen at the fringe over
+    25 years.
+  start: '18:20'
+  end: '19:20'
+  url: https://www.edfringe.com/tickets/whats-on/circa-wolf
+- rank: 475
+  name: 'Shamik Chakrabarti: Despite Appearances'
+  star: SSSS
+  rating: Good
+  producer: Soho Theatre in association with Comedy Wagon
+  location: Gilded Balloon Appleton Tower
+  review: 'A relaxed easy shaggy dog story style, looking at life in Mumbai, with
+    comparisons with the US. Shamik loses a laptop bag and laptop in a autorickshaw...
+    A confident performance that leaves you with a warm feeling after the end.  Good
+    laughs. '
+  start: '21:00'
+  end: '22:00'
+  url: https://www.edfringe.com/tickets/whats-on/shamik-chakrabarti-despite-appearances
+- rank: 750
+  name: Standing in the Shadows of Giants
+  star: SSSS
+  rating: Very Good
+  producer: Traverse Theatre and The Hale
+  location: Traverse
+  review: "The personal story of Lucie Bar\xE2t, the sister of The Libertines' Carl\
+    \ Bar\xE2t. The story of her travels, dealing with the troubles of making it in\
+    \ the theatre, while her brother makes stardom. Now-traditional stories of power-play,\
+    \ drugs, and rehab and handled well and without clich\xE9. A moving and strong\
+    \ performance throughout. There were a few quirks and the \"if only I had realised\
+    \ I was gay earlier perhaps everything would have been different\" endplay seemed\
+    \ like an aftertake - a little glib and unconvincing. But that is a very minor\
+    \ 2 minutes in an otherwise great performance."
+  start: Various
+  end: 1hr10
+  url: https://www.edfringe.com/tickets/whats-on/standing-in-the-shadows-of-giants
+- rank: 850
+  name: Art of Andalucia
+  star: SSSSS
+  rating: Excellent
+  producer: Daniel Martinez Flamenco Company
+  location: Imaginex at YOTEL Edinburgh
+  review: Incredible. Everyone played their part in this performance, and all parts
+    were vital, but the visiting performance by Angel Reyes was in a league of its
+    own. I know little of flamenco compared to many, but this dance was stunning to
+    me. The overall performance was varied, with guitar, bailaor, bailaora, cantaor
+    and cantaora each having their centre stage. It took me back to Seville in an
+    instant. Evocative soulful and impressive.
+  start: Various
+  end: 1hr20
+  url: https://www.edfringe.com/tickets/whats-on/art-of-andalucia
+- rank: 300
+  name: Insiders
+  star: SSS
+  rating: Fair
+  producer: 'Bethany Christian Trust: Creative Expressions'
+  location: St John's Church
+  review: (Free ticketed) As you might expect from Bethany, a look at life inside
+    prison with an overtly Christian undertone. Prepared in conjunction with prison
+    chaplaincies and prisoners, this is a look at the everyday experience in prison.
+    As a fringe show, it felt like a partial success, but was perhaps still a little
+    too pastiche to provide deep insight. The history of how the play came about is
+    interesting, as is its use in prisons. Anything that keeps what happens in our
+    prisons in public consciousness is a good thing in my mind.
+  start: Various
+  end: 1hr
+  url: https://www.edfringe.com/tickets/whats-on/insiders
+- rank: 150
+  name: Because you Never Asked
+  star: SSS
+  rating: Okay
+  producer: Roger White and Helen Simard
+  location: Summerhall
+  review: This was not one for me. Dancers running around somewhat aimlessly, waving
+    their arms a lot, while a backing track of an interview of a Jewish survivor of
+    the Nazi regime recounts experiences from before and after the Nazis came to power.
+    For me the disconnect was too great. What the dancers were doing was hard to connect
+    to anything that was being said, and lacked interpretability. The dance was not
+    interesting in its own right (apart from the coats). Though the backing interview
+    was interesting, it was a backing interview and what happened on stage distracted
+    from it rather than adding to it. For me, it insufficiently held together as a
+    show.
+  start: '19:35'
+  end: '20:35'
+  url: https://www.edfringe.com/tickets/whats-on/because-you-never-asked
+- rank: 675
+  name: 300 Paintings
+  star: SSSS
+  rating: Very Good
+  producer: Sam Kissajukian
+  location: Summerhall
+  review: 'A comic yet serious look at at overly long manic episode in Sam Kissajukiar''s
+    life and the ferrocious and infectious but misdirected productivity that can come
+    from bipolar manic episodes. It is also a story that moves to recognition of what
+    bipolar is and learning to manage it. Funny at the time, but also sad on reflection,
+    this fringe show goes beyond stand-up to tell a tale well worth the telling and
+    the hearing. '
+  start: '12:05'
+  end: '13:05'
+  url: https://www.edfringe.com/tickets/whats-on/300-paintings
