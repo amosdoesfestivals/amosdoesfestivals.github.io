@@ -123,8 +123,8 @@
   review: We have two older Irish guys in a pub, and the near-silent publican... and
     a pub conversation. And that's about it. A mix of the inane and the personal.
     I really liked it - for me it dealt with the unmentioned tensions in male conversation
-    really well. Funny. Rather Father Ted like. The guys in front of me in the toilet
-    queue thought it was inane drivel though. So not for everyone.
+    really well. Funny, in a rather Father Ted like way. The guys in front of me in
+    the toilet queue thought it was inane drivel though. So not for everyone.
   start: '15:10'
   end: '16:40'
   url: https://www.edfringe.com/tickets/whats-on/two-pints
@@ -603,3 +603,45 @@
   start: '19:35'
   end: '20:35'
   url: https://www.edfringe.com/tickets/whats-on/shamilton-the-improvised-hip-hop-musical
+- rank: 140
+  name: 'Nate Kitch: Something Different!!!!!'
+  star: SS
+  rating: Poor
+  producer: Nate Kitch
+  location: Gilded Balloon Patter House
+  review: Nothin I say here will make a difference; he already has five exclamation
+    marks. I found it hard to distinguish this from messing about. He got one laughing
+    member of the audience, the rest had an occasional mild chuckle. Fine if there
+    was more to it than just a laugh, but there was not. This is not really alternative.
+    Unless alternative is just a synonym for rather mediocre. Its all been done before,
+    and better.
+  start: Various
+  end: 1hr
+  url: https://www.edfringe.com/tickets/whats-on/nate-kitch-something-different
+- rank: 855
+  name: The Genesis
+  star: SSSSS
+  rating: Excellent
+  producer: Copenhagen Collective
+  location: Assembly Hall
+  review: 'An excellent display of acrobatic prowess. It was entirely prop free: just
+    pure acrobatics. There were 17 people, so a lot happening. 4-person tall towers,
+    and back flip somersaults from on top of one two-tower to on top of another are
+    amongst the many incredible acts. One or two slips and falls as they are really
+    pushing to the edge, but powerful stuff. Between this and Circa: Wolf, which should
+    you see? Both, of course. But I would say Circa was a better overall show, but
+    if you are just going for the pure acrobatics, then this is the one for you,'
+  start: '12:30'
+  end: '13:30'
+  url: https://www.edfringe.com/tickets/whats-on/the-genesis
+- rank: 270
+  name: 'Flip Fabrique: Six'
+  star: SSS
+  rating: Fair
+  producer: Underbelly and FLIP Fabrique
+  location: Meadows Circus Hub
+  review: This was an enjoyable show. It was not up there with the other acrobatic
+    shows, and the storyline was a bit cryptic, but it was a pleasant watch.
+  start: '14:05'
+  end: '15:10'
+  url: https://www.edfringe.com/tickets/whats-on/flip-fabrique-six
