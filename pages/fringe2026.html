@@ -13,7 +13,8 @@ author: Amos Storkey
 title: Edinburgh Fringe 2026 Reviews 
 ---
 {% assign this_page = 2026 %}
-{% assign imagedetails = "../pictures/bluecastleweb.jpg"%}
+{% assign imagedetails = "../pictures/fringe76.jpg" %}
+{% assign imagealt = "20 Years Ago" %}
 {% assign sorted_reviews = site.data.reviews2026 | sort: "rank" | reverse %}
 
 <!-- No year specifics below here--> 
@@ -109,8 +110,8 @@ title: Edinburgh Fringe 2026 Reviews
         </p>
        </p>
         <center>
-        <img class="bigpic" width="50%" alt="blue sky castle" src={{imagedetails}}>     
-    
+        <img class="bigpic" width="50%" alt={{imagealt}} src={{imagedetails}}>     
+        <p>(20 Years Ago)</p>
         </center> 
     </section>
 
