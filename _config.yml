@@ -9,7 +9,7 @@ url:                 http://amosdoesfestivals.github.io
 paginate:            10
 paginate_path:       "posts/page:num"
 baseurl:             ""
-
+current_year:        2026
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
