@@ -133,7 +133,10 @@ title: Edinburgh Fringe 2024 Reviews
     </div>
 
     <section id="additional-commentary">
-        <p></p>
+        <p>The most recent reviews will always be on <a href="https://amosdoesfestivals.com/">https://amosdoesfestivals.com/</a>. For all reviews from current and previous years, see 
+{% for year in (2024..site.current_year) reversed %}
+    <a href="https://amosdoesfestivals.com/fringe{{ year }}/">Fringe {{ year }}</a>,  
+{% endfor %}<a href="https://amosdoesfestivals.com/fringe2023/">Fringe 2023</a>.<img width="1px" src="https://hits.sh/amosdoesfestivals.com/hits.svg"> </p>
     </section>
 </body>
 </html>
