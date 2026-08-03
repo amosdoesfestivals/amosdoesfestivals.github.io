@@ -1,10 +1,18 @@
-- rank: 101
-  name: Waiting for First Show
+- rank: 200
+  name: Bull / Fight
   star: SSS
   rating: Okay
-  producer: Performer
-  location: Place
-  review: Review
-  start: 00:00
-  end: 00:00
-  url: https://amosdoesfestivals.com/
+  producer: Mythography Collective with Macrobert Arts Centre
+  location: Former Womens Locker Room at Summerhall
+  review: Pulling together the times of the poet Lorca, and Lorca's most famous poem,
+    this play is a montage of scenes around the impact of the Franco regime on the
+    people, the poet and the arts. The plays starts with the poets incarceration,
+    the challenge of performing under significant restriction moving in to the life
+    changing impact and despair that resulted. Thematically interesting, and intriguing
+    dynamics and showmanship, the play loses itself by fusing too many scenes together
+    all at once, leaving the audience a little bewildered. The long show of despair
+    in the middle drags on, and in the end the lack of characterisation leaves the
+    audience with very little emotional link with what unfolded.
+  start: '11:30'
+  end: '12:20'
+  url: https://www.edfringe.com/tickets/whats-on/bull-fight
