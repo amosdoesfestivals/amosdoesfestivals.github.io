@@ -65,10 +65,10 @@
   start: '16:35'
   end: '17:35'
   url: https://www.edfringe.com/tickets/whats-on/couplet-folk-marry-kill
-- rank: 520
+- rank: 470
   name: Waving
   star: SSSS
-  rating: Very good
+  rating: Good
   producer: Dogs in Wellies
   location: Stephenson Theatre at theSpace @ Surgeons' Hall
   review: 'A play nominally about a mother suffering from dementia but actually as
@@ -76,13 +76,14 @@
     in time, mirroring the memory regression of the disease, we see three characters
     converge backwards in time, leaving the lingering feeling of what might have been.
     A mostly solid and well written performance - the gallery scene is a little stilted
-    but otherwise it held up. Lacking the layers and more climactic elements of great
-    shows, it still quietly conveys its simple message, tinged not so much with regret
-    as a simple recognition that time does its own work, whatever we do. '
+    but otherwise it held up. Acting quality was a little mixed - two of the cast
+    were very strong. Lacking the layers and more climactic elements of great shows,
+    it still quietly conveys its simple message, tinged not so much with regret as
+    a simple recognition that time does its own work, whatever we do. '
   start: '19:45'
   end: '20:35'
   url: https://www.edfringe.com/tickets/whats-on/waving
-- rank: 480
+- rank: 460
   name: 'Gail Porter: Portergeist'
   star: SSSS
   rating: Good
@@ -97,15 +98,15 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
-- rank: 600
+- rank: 510
   name: Forge
   star: SSSS
-  rating: Very good
+  rating: Good
   producer: Tom Oakes/Brite Theatre
   location: George Mackay Brown Library at Scottish Storytelling Centre
   review: "Very much one for traditional music fans. Tom Oakes, an Edinburgh multi-instrumentalist\
     \ - originally from Devon, family roots from Ireland, and married to Kolbr\xFA\
-    n Bj\xF6rt Sigf\xFAsd\xF3ttir - weaves family, throughout this show. A wonderful\
+    n Bj\xF6rt Sigf\xFAsd\xF3ttir - weaves family throughout this show. A wonderful\
     \ mix of traditional music from different places, and self-composed birthday tunes,\
     \ all with deep and well-researched back-stories. Inspiring folk music and a strong\
     \ sense of presence \u2013 sometimes with works or stories juxtaposed. A small\
@@ -115,3 +116,22 @@
   start: '20:00'
   end: '21:00'
   url: https://www.edfringe.com/tickets/whats-on/forge
+- rank: 0
+  name: Fringe Website/App
+  star: S
+  rating: Dire
+  producer: Fringe Festival
+  location: Everywhere
+  review: Seriously? How can an organisation ship a website that they have had a whole
+    year to make with a search functionality that returns shows an hour out from the
+    requested time? E.g. a search for shows from 8 to 9pm will return shows between
+    9 and 10pm. I sent them a bug report on this back in July, and they said they
+    were working on fixing it. Its already well into August and it is still the same.
+    Maybe they vibe-coded the new website, but this is hardly a hard one to vibe-bugfix.
+    In the meantime, readers are warned. Hopefully it will be fixed before the end
+    of this year's fringe. Or next. Oh, the times are fine on the android App, but
+    it will forget who you are every few days and the search completely fails randomly
+    at times. Its all a show on its own.
+  start: '?'
+  end: '?'
+  url: https://www.edfringe.com/
