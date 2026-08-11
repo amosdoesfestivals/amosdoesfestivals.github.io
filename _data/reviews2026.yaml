@@ -97,7 +97,7 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
-- rank: 510
+- rank: 490
   name: Forge
   star: SSSS
   rating: Good
@@ -224,10 +224,10 @@
   start: '18:00'
   end: '19:00'
   url: https://www.edfringe.com/tickets/whats-on/1-night-at-ford-s-theatre
-- rank: 480
+- rank: 520
   name: Mrs Stern Wanders the Prussian State Library
   star: SSSS
-  rating: Good
+  rating: Very Good
   producer: Luna Stage, Richard Jordan Productions in association with Traverse Theatre
   location: Traverse 2
   review: Review to follow
