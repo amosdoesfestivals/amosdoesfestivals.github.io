@@ -25,30 +25,25 @@
   location: Assemby Roxy Upstairs
   review: "Krapp\u2019s Last Tape is a monodrama of Samuel Becket that certainly splits\
     \ opinions. The play can convey some sense of the action of age and time in cleaving\
-    \ both a man and his memories. But at what age is the essence of an individual\
-    \ captured? And does that mean anything when different selves dissonate with one\
-    \ another? However to get to that point in this play, the audience has to make\
-    \ it through, or even gel with, the self-indulgent tedium of the early play, and\
-    \ the mechanical repetitive nature of the play as a whole. Achieving this is a\
-    \ challenge (some might say an impossible one), but doing so involves providing\
-    \ complete clarity of the tape content, and the real contrasts with the current\
-    \ character of Krapp over different repeated listens. I preferred Pinter\u2019\
-    s take: axing the grating banana scene from the beginning and giving time to the\
-    \ tapes to aid the clear reflection on that. Here unfortunately, the earlier parts\
-    \ drag so much that by the time the self-recording comes, the audience requires\
-    \ such high redemption from the earlier monotony that the play will not deliver.\
-    \ In this production, the characters of Krapp of different ages felt incidental\
-    \ as acted even though they were clearly fundamental in the play. But this was\
-    \ very capable directing, and very capable acting, so it begs the question once\
-    \ again. Does the fault actually just lie with Becket in the first place? Some\
-    \ fault, ironically, lies in time itself \u2013 the idea of using tapes in the\
-    \ play was a wonder in 1958 that transfers badly to 2026. Perhaps even the early\
-    \ pauses and absurdist banana scenes were more powerfully contrasting in 1958?\
-    \ Perhaps the blame lies in the instruction of Beckett estate that plays adhere\
-    \ to Becket\u2019s obsessive instruction even 65 years on? Or perhaps, it is the\
-    \ faulty opinion of a reviewer living in an age that has lost patience? Would\
-    \ the reviewer have thought the same 30 years ago? I wonder \u2013 perhaps I should\
-    \ dig out box three, spool five. Spoool."
+    \ both a man and his memories and how different selves dissonate with one another.\
+    \ However to get to that point, the audience has to make it through, or even gel\
+    \ with, the somewhat tedious absurdity of the early play, and the mechanical repetitive\
+    \ nature of the play as a whole. Achieving this is a challenge (some might say\
+    \ an impossible one), but doing so involves providing complete clarity of the\
+    \ tape content, and the real contrasts with the current character of Krapp over\
+    \ different repeated listens. I preferred Pinter\u2019s take: axing the grating\
+    \ banana scene from the beginning and giving time to the tapes to aid the clear\
+    \ reflection on that. Here unfortunately, the earlier parts drag so much that\
+    \ by the time the self-recording comes, the audience requires such high redemption\
+    \ from the earlier monotony that the play will not deliver. In this production,\
+    \ some sense of contrast of older and younger Crapp are lost. But this was very\
+    \ capable directing, and very capable acting, so some of the difficulties lie\
+    \ in the play itself and  ironically in the passage of time \u2013 the idea of\
+    \ using tapes in the play was a wonder in 1958 that transfers badly to 2026. The\
+    \ Beckett estate requires strict adherence to Becket\u2019s original obsessive\
+    \ instruction. Or maybe it is the faulty opinion of a reviewer living in an age\
+    \ that has lost patience... Would I have thought the same 30 years ago? I wonder\
+    \ \u2013 perhaps I should dig out box three, spool five. Spoool."
   start: '13:25'
   end: '14:15'
   url: https://www.edfringe.com/tickets/whats-on/krapp-s-last-tape
@@ -60,7 +55,8 @@
   location: Assembly George Square Studio 5
   review: Fairly run of the mill music comedy duo. Nothing much folk about it more
     than the title. Slightly repetitive, definitely funny in parts but mildly grating
-    in others. The "we are a couple and we are a duo" USP wears thin quite quickly.
+    in others. The "we are a couple and we are a duo" unique selling point wears thin
+    quite quickly.
   start: '16:35'
   end: '17:35'
   url: https://www.edfringe.com/tickets/whats-on/couplet-folk-marry-kill
@@ -134,13 +130,20 @@
   start: '?'
   end: '?'
   url: https://www.edfringe.com/
-- rank: 380
+- rank: 410
   name: A Microscopic Odyssey
-  star: SSS
-  rating: Fair
+  star: SSSS
+  rating: Good
   producer: Mycelium Theatre Company
   location: Pleasance Courtyard - Beside
-  review: Review to follow
+  review: 'An original and interesting show . This amateur production packs a lot
+    of variation in form into one hour of show. It is the sort of show that make the
+    Fringe different from the average theatre. An esemble show at the fringe is a
+    rarity and as such this enables more interesting interactions. The story of James
+    Weiss told with shadow viusals, dance, flashbacks, and trying to catch a sense
+    of wonder.  The only downside is the venue is noisy and poorly structured. Visibility
+    is poor from the majority of seats in the venue, and they have not adapted the
+    show (so far) to compensate for this. '
   start: '11:35'
   end: '12:35'
   url: https://www.edfringe.com/tickets/whats-on/a-microscopic-odyssey
@@ -150,17 +153,26 @@
   rating: Fair
   producer: NJNG Productions & Seabright Live
   location: Gilded Balloon Teviot - Dining Room
-  review: Review to follow
+  review: The tale of Wiesenthal is here very well done - well told and well acted.
+    Very firmly in the class of "Those who do not remember the past are condemned
+    to repeat it" shows. But I personally find any show like this that deliberately
+    ignores what is happening in Gaza problematic. Many other modern genocide activities
+    are mentioned, but Gaza gets no mention at all. Sadly remembering the past is
+    not enough.
   start: '13:15'
   end: '14:25'
   url: https://www.edfringe.com/tickets/whats-on/wiesenthal
-- rank: 850
+- rank: 900
   name: Goodbye Dandelion
   star: SSSSS
-  rating: Excellent
+  rating: Outstanding
   producer: Maddie and Marcus Rice, Charlotte Pleasants and Underbelly
   location: Belly Dancer, Underbelly Cowgate
-  review: Review to follow
+  review: This is up there in the top fringe shows I have seen over a long while.
+    This is storytelling at its greatest by brother and sister Maddie and Marcus Rice,
+    with twists and turns, musical interjection, and comic moments alongside emotive
+    storytelling. They know how to capture and audience. Modern audiences are too
+    quick to standing ovate. But this was well deserved. It was very slick and gripping.
   start: '16:10'
   end: '17:10'
   url: https://www.edfringe.com/tickets/whats-on/goodbye-dandelion
@@ -170,17 +182,46 @@
   rating: Excellent
   producer: Mark Thomas / Tin Cat Entertainment Ltd
   location: Stand
-  review: Review to follow
+  review: Admittedly it is comedy from my era, but this was potent and very funny
+    - Mark Thomas at almost his best. But Mark Thomas at his best is outstanding,
+    so this was still brilliant. It doesn't have the cutting politic that his best
+    performances over the last 40 years have had (his critique of US and internation
+    defence policy about 20 years ago still rings in my ears), but this show was certainly
+    as funny as ever, and a little more personal than his performances of yesteryear.
   start: '18:05'
   end: '19:05'
   url: https://www.edfringe.com/tickets/whats-on/mark-thomas-40-in-stand-up-years
 - rank: 90
   name: "Three by Samuel Beckett \u2013 Not I, Eh Joe, Rockaby"
-  star: S
-  rating: Bad
+  star: SS
+  rating: Poor
   producer: Blackbox Productions & McSquared Productions
   location: Ivy Greenside George Street
-  review: Review to follow
+  review: Samuel Becket's obsession with words, sounds, thoughts and bodily function
+    are brought to stage in three short snippets, none of which I had previously seen.
+    Criticising a Becket work is a quick way to render one the title of Philistine,
+    but personally, I think we need to get over it. People discuss the meaning and
+    character of the script content of "Not I", but what is the point? Becket's instruction
+    is for it to be so fast that, in performance, it is fairly unintelligable. Yes,
+    the focus is on the mouth. But there is only so much an audience can get about
+    a mouth. It moves. Yes one can get a sense of angst, but that is hardly challenging
+    theatre. "Not I" just simply leaves me bored. Eh Joe on the other hand is unpleasant
+    rather than boring. The derisive thoughts of Joe or accusations of others brought
+    to script on a screen. It gives a sense of the way an individual can be belittled
+    by both others and their own self, not necessarily without reason, but horrifyingly
+    without relent. However being entirely on screen, the theatre setting adds little
+    to this snippet. Rockaby captured me more - the sense of a lone woman sitting
+    in the rocking chair looking out of the window, lonely and trapped, grasping at
+    any hint of other life form the windows opposite, and eventually closing the blinds,
+    summoning the full effort of a trip down down down to her mothers rocking chair
+    for her eventual demise. The voice speeds and slows, rocking increases and decreases,
+    and the volume changes to signifiy variations in strength. I can appreciate this
+    monologue. Altogether, in a postmodern world, I personally think Becket's offerings
+    do look a little ridiculous. I can appreciate bits and pieces, but it feels too
+    self-indulgent to me to be worth elevating against other Fringe offerings. Yes
+    I know that existential absurdity and reduction is the point. But for the same
+    reason, you cannot expect me to take it as seriously as it wants to demand me
+    to.
   start: '19:50'
   end: '20:40'
   url: https://www.edfringe.com/tickets/whats-on/three-by-samuel-beckett-not-i-eh-joe-rockaby
@@ -190,7 +231,13 @@
   rating: Okay
   producer: Below Zero
   location: Meadows Circus Hub
-  review: Review to follow
+  review: A simple, mild capable acrobatic show illustrating aspects of a relationship
+    -  cooperation, disagreement, need, exhaustion, care, and so on. If you are along
+    for dramatic acrobatics, this is not the place to come, but for a show that weaves
+    thematically consisitent acrobatic dance it does the job okay. A bit too much
+    repetition and filler, and gentle rather than dramatic, it might lose audience
+    engagement in parts but it still has its moments. Happy to have seen, but there
+    are better offerings out there.
   start: '11:10'
   end: '12:10'
   url: https://www.edfringe.com/tickets/whats-on/pace
@@ -200,7 +247,11 @@
   rating: Fair
   producer: Fishamble in association with Belltable, GIAF and Traverse presents
   location: Traverse 2
-  review: Review to follow
+  review: 'A solid performance - two very different room-sharing female friends are
+    telling their story - of relationships, friendships, fiance''s, lovers, family,
+    death and more. Solidly acted, well scripted, but at the same time abounding in
+    cliches, shallow characters, and emotional tugs on the audience that are too overt
+    and extended to bring me on board. For this reason, it didn''t hit home for me. '
   start: '13:00'
   end: '14:20'
   url: https://www.edfringe.com/tickets/whats-on/for-dolores
@@ -210,7 +261,9 @@
   rating: Poor
   producer: Theatre Royal Plymouth in association with Bristol Old Vic
   location: Traverse 2
-  review: Review to follow
+  review: This was just rather dull. I don't have to believe in disappearances or
+    badgers or the other elementsvin the play, but the play needs to at least get
+    me to care about any of it. I didn't.
   start: '15:30'
   end: '16:40'
   url: https://www.edfringe.com/tickets/whats-on/badgers
@@ -220,7 +273,11 @@
   rating: Good
   producer: Eclipsing Stars
   location: Lauriston Pl, Bubble at Rotunda Theatre
-  review: Review to follow
+  review: 'This musical felt like a Hamilton wannabee - but it was good for an amateur
+    performance, diving in to a different perspective on the Lincoln assassination.
+    I very much enjoyed it. Not all the singers quite hit the mark, but it didn''t
+    spoil the enjoyment, and it was wonderful to have a large cast show with multiple
+    musicians to boot. '
   start: '18:00'
   end: '19:00'
   url: https://www.edfringe.com/tickets/whats-on/1-night-at-ford-s-theatre
@@ -230,7 +287,15 @@
   rating: Very Good
   producer: Luna Stage, Richard Jordan Productions in association with Traverse Theatre
   location: Traverse 2
-  review: Review to follow
+  review: A three part play that was slick and engaging and while it was not very
+    believable, it did not have to be. Set at the end of the Weimar Republic and the
+    early stages of Nazi rule, this was a slow burn non-climactic play really looking
+    at the process by which Mrs Stern tries to convince a guard of her innocence,
+    not via arguments, but by character and play. It was beautiful to watch the slow
+    changes in perspective. The beauty was that even as an audience member I was left
+    a believer. It was the play equivalent of pPenn and Teller doing the cups and
+    balls trick with glass cups in slow motion. The ending was unlikely, but it had
+    to end somehow.
   start: '20:30'
   end: '21:50'
   url: https://www.edfringe.com/tickets/whats-on/mrs-stern-wanders-the-prussian-state-library
@@ -240,7 +305,11 @@
   rating: Fair
   producer: ECC
   location: Big at theSpaceTriplex
-  review: Review to follow
+  review: A mad, ridiculous and over-the-top farce, written in a style as if it were
+    a modern adaption of an an ancient text (it is not). Fun, silly and pantamimic,
+    some parts of this show are just far too overacted even for this. It is late in
+    the day, so likely attendees are a few beers in. But I think I'd need a few more
+    to fully appreciate this. Happy to have seen.
   start: '21:40'
   end: '22:35'
   url: https://www.edfringe.com/tickets/whats-on/homunculus
