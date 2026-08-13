@@ -136,8 +136,8 @@
   rating: Good
   producer: Mycelium Theatre Company
   location: Pleasance Courtyard - Beside
-  review: 'An original and interesting show . This amateur production packs a lot
-    of variation in form into one hour of show. It is the sort of show that make the
+  review: 'An original and interesting show. This amateur production packs a lot of
+    variation in form into one hour of show. It is the sort of show that make the
     Fringe different from the average theatre. An esemble show at the fringe is a
     rarity and as such this enables more interesting interactions. The story of James
     Weiss told with shadow viusals, dance, flashbacks, and trying to catch a sense
@@ -156,9 +156,9 @@
   review: The tale of Wiesenthal is here very well done - well told and well acted.
     Very firmly in the class of "Those who do not remember the past are condemned
     to repeat it" shows. But I personally find any show like this that deliberately
-    ignores what is happening in Gaza problematic. Many other modern genocide activities
-    are mentioned, but Gaza gets no mention at all. Sadly remembering the past is
-    not enough.
+    avoids reference to what is happening in Gaza problematic. Many other modern genocide
+    activities are mentioned, but Gaza gets no mention at all. Sadly remembering the
+    past is not enough.
   start: '13:15'
   end: '14:25'
   url: https://www.edfringe.com/tickets/whats-on/wiesenthal
@@ -172,7 +172,8 @@
     This is storytelling at its greatest by brother and sister Maddie and Marcus Rice,
     with twists and turns, musical interjection, and comic moments alongside emotive
     storytelling. They know how to capture and audience. Modern audiences are too
-    quick to standing ovate. But this was well deserved. It was very slick and gripping.
+    quick to standing ovate. But it was very well deserved here. It was very slick
+    and gripping.
   start: '16:10'
   end: '17:10'
   url: https://www.edfringe.com/tickets/whats-on/goodbye-dandelion
@@ -247,11 +248,12 @@
   rating: Fair
   producer: Fishamble in association with Belltable, GIAF and Traverse presents
   location: Traverse 2
-  review: 'A solid performance - two very different room-sharing female friends are
-    telling their story - of relationships, friendships, fiance''s, lovers, family,
-    death and more. Solidly acted, well scripted, but at the same time abounding in
-    cliches, shallow characters, and emotional tugs on the audience that are too overt
-    and extended to bring me on board. For this reason, it didn''t hit home for me. '
+  review: "A solid performance - two very different room-sharing female friends are\
+    \ telling their story - of relationships, friendships, fianc\xE9s, lovers, family,\
+    \ death and more. Solidly acted, well scripted, but at the same time abounding\
+    \ in cliches, shallow characters, and emotional tugs on the audience that are\
+    \ too overt and extended to bring me on board. For this reason, it didn't hit\
+    \ home for me. "
   start: '13:00'
   end: '14:20'
   url: https://www.edfringe.com/tickets/whats-on/for-dolores
@@ -262,13 +264,13 @@
   producer: Theatre Royal Plymouth in association with Bristol Old Vic
   location: Traverse 2
   review: This was just rather dull. I don't have to believe in disappearances or
-    badgers or the other elements in the play, but the play needs to at least get
-    me to care about any of it. I didn't.
+    badger reincarnation or the other elements in the play, but the play needs to
+    at least get me to care about any of it. I didn't.
   start: '15:30'
   end: '16:40'
   url: https://www.edfringe.com/tickets/whats-on/badgers
 - rank: 450
-  name: 1 night at fords theatre
+  name: 1 Night at Fords Theatre
   star: SSSS
   rating: Good
   producer: Eclipsing Stars
@@ -289,13 +291,13 @@
   location: Traverse 2
   review: A three part play that was slick and engaging and while it was not very
     believable, it did not have to be. Set at the end of the Weimar Republic and the
-    early stages of Nazi rule, this was a slow burn non-climactic play really looking
-    at the process by which Mrs Stern tries to convince a guard of her innocence,
-    not via arguments, but by character and play. It was beautiful to watch the slow
-    changes in perspective. The beauty was that even as an audience member I was left
-    a believer. It was the play equivalent of pPenn and Teller doing the cups and
-    balls trick with glass cups in slow motion. The ending was unlikely, but it had
-    to end somehow.
+    early stages of Nazi rule, this focus on philosopher and activist Hannah Stern
+    was a slow burn non-climactic play really looking at the process by which Mrs
+    Stern tries to convince a guard of her innocence, not via arguments, but by character
+    and play. It was beautiful to watch the slow changes in perspective. The beauty
+    was that even as an audience member I was left a believer. It was the play equivalent
+    of pPenn and Teller doing the cups and balls trick with glass cups in slow motion.
+    The ending was unlikely in the context provided, but it had to end somehow.
   start: '20:30'
   end: '21:50'
   url: https://www.edfringe.com/tickets/whats-on/mrs-stern-wanders-the-prussian-state-library
