@@ -137,7 +137,7 @@ title: Edinburgh Fringe 2026 Reviews
                        {% assign missingStars = 5 | minus: starCount | minus: halfStarCount %}
 
                        <div class="star-rating">
-                           {% for i in (1..starCount) %}★{% endfor %}{% if halfStarCount >= 1 %}⯨{% endif %}{% for i in (1..missingStars) %}☆{% endfor %}  
+                           {% for i in (1..starCount) %}★{% endfor %}{% if halfStarCount >= 1 %}&#x2BEA;{% endif %}{% for i in (1..missingStars) %}☆{% endfor %}  
                        </div>
                        <div>{{ review.rating }}</div>
                     </td>
