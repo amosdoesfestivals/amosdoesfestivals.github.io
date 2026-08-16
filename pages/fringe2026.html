@@ -22,6 +22,10 @@ title: Edinburgh Fringe 2026 Reviews
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&display=swap" rel="stylesheet">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <style>
@@ -71,6 +75,7 @@ title: Edinburgh Fringe 2026 Reviews
             color: white;
         }
         .star-rating {
+            font-family: "Noto Sans Symbols 2";
             color: #8b0000;
             font-size: 1.5em;
         }
@@ -137,7 +142,7 @@ title: Edinburgh Fringe 2026 Reviews
                        {% assign missingStars = 5 | minus: starCount | minus: halfStarCount %}
 
                        <div class="star-rating">
-                           {% for i in (1..starCount) %}★{% endfor %}{% if halfStarCount >= 1 %}&#x2BEA;{% endif %}{% for i in (1..missingStars) %}☆{% endfor %}  
+                           {% for i in (1..starCount) %}★{% endfor %}{% if halfStarCount >= 1 %}⯪{% endif %}{% for i in (1..missingStars) %}☆{% endfor %}  
                        </div>
                        <div>{{ review.rating }}</div>
                     </td>
