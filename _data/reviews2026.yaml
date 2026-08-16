@@ -1,6 +1,6 @@
 - rank: 200
   name: Bull / Fight
-  star: SSS
+  star: SSH
   rating: Okay
   producer: Mythography Collective with Macrobert Arts Centre
   location: Former Womens Locker Room at Summerhall
@@ -19,7 +19,7 @@
   url: https://www.edfringe.com/tickets/whats-on/bull-fight
 - rank: 220
   name: Krapp's Last Tape
-  star: SSS
+  star: SSH
   rating: Okay
   producer: Stockard Channing and David Westhead
   location: Assembly Roxy Upstairs
@@ -49,7 +49,7 @@
   url: https://www.edfringe.com/tickets/whats-on/krapp-s-last-tape
 - rank: 210
   name: 'Couplet: Folk Marry Kill'
-  star: SSS
+  star: SSH
   rating: Okay
   producer: Couplet
   location: Assembly George Square Studio 5
@@ -62,7 +62,7 @@
   url: https://www.edfringe.com/tickets/whats-on/couplet-folk-marry-kill
 - rank: 470
   name: Waving
-  star: SSSS
+  star: SSSH
   rating: Good
   producer: Dogs in Wellies
   location: Stephenson Theatre at theSpace @ Surgeons' Hall
@@ -78,9 +78,9 @@
   start: '19:45'
   end: '20:35'
   url: https://www.edfringe.com/tickets/whats-on/waving
-- rank: 460
+- rank: 410
   name: 'Gail Porter: Portergeist'
-  star: SSSS
+  star: SSSH
   rating: Good
   producer: Gail Porter
   location: Drawing Room at Assembly Rooms
@@ -95,7 +95,7 @@
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
 - rank: 490
   name: Forge
-  star: SSSS
+  star: SSSH
   rating: Good
   producer: Tom Oakes/Brite Theatre
   location: George Mackay Brown Library at Scottish Storytelling Centre
@@ -130,9 +130,9 @@
   start: '?'
   end: '?'
   url: https://www.edfringe.com/
-- rank: 410
+- rank: 460
   name: A Microscopic Odyssey
-  star: SSSS
+  star: SSSH
   rating: Good
   producer: Mycelium Theatre Company
   location: Pleasance Courtyard - Beside
@@ -164,7 +164,7 @@
   url: https://www.edfringe.com/tickets/whats-on/wiesenthal
 - rank: 900
   name: Goodbye Dandelion
-  star: SSSSS
+  star: SSSSH
   rating: Excellent
   producer: Maddie and Marcus Rice, Charlotte Pleasants and Underbelly
   location: Belly Dancer, Underbelly Cowgate
@@ -178,7 +178,7 @@
   url: https://www.edfringe.com/tickets/whats-on/goodbye-dandelion
 - rank: 820
   name: 'Mark Thomas: 40 in Stand-Up Years'
-  star: SSSSS
+  star: SSSSH
   rating: Excellent
   producer: Mark Thomas / Tin Cat Entertainment Ltd
   location: Stand 1 at The Stand Comedy Club
@@ -228,7 +228,7 @@
   url: https://www.edfringe.com/tickets/whats-on/three-by-samuel-beckett-not-i-eh-joe-rockaby
 - rank: 250
   name: PACE
-  star: SSS
+  star: SSH
   rating: Okay
   producer: Below Zero
   location: Meadows Circus Hub
@@ -271,7 +271,7 @@
   url: https://www.edfringe.com/tickets/whats-on/badgers
 - rank: 450
   name: 1 Night at Ford's Theatre
-  star: SSSS
+  star: SSSH
   rating: Good
   producer: Eclipsing Stars
   location: Lauriston Pl, Bubble at Rotunda Theatre
