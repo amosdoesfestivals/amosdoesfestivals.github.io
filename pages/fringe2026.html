@@ -128,10 +128,16 @@ title: Edinburgh Fringe 2026 Reviews
                 {% for review in sorted_reviews %}
                 <tr>
                     <td>
-                        {% assign starCount = review.star | size %}
-                        {% assign missingStars = 5 | minus: starCount %}
+                        {% assign starParts = review.star | split: "S" %}
+                        {% assign starCount = starParts.size | minus: 1 %}
+
+                        {% assign halfParts = review.star | split: "H" %}
+                        {% assign halfStarCount = halfParts.size | minus: 1 %}
+                        {% assign missingStars = 5 | minus: starCount | minus: halfStarCount %}
                         <div class="star-rating">
-                           {% for i in (1..starCount) %}★{% endfor %}{% for i in (1..missingStars) %}☆{% endfor %}
+                            {% for i in (1..starCount) %}★{% endfor %}
+                            {% if halfStarCount == 1 %}⯨{% endif %}
+                            {% for i in (1..missingStars) %}☆{% endfor %}                        
                         </div>
                         <div>{{ review.rating }}</div>
                     </td>
