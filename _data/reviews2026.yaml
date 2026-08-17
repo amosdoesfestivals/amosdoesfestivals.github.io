@@ -226,10 +226,10 @@
   start: '19:50'
   end: '20:40'
   url: https://www.edfringe.com/tickets/whats-on/three-by-samuel-beckett-not-i-eh-joe-rockaby
-- rank: 250
+- rank: 330
   name: PACE
-  star: SSH
-  rating: Okay
+  star: SSS
+  rating: Fair
   producer: Below Zero
   location: Meadows Circus Hub
   review: A simple, mild and capable acrobatic show illustrating aspects of a relationship
@@ -348,3 +348,43 @@
   start: '20:30'
   end: '21:30'
   url: https://www.edfringe.com/tickets/whats-on/the-wolf-of-poyais
+- rank: 530
+  name: Constellations
+  star: SSSS
+  rating: Very Good
+  producer: Theatre33
+  location: Space 2 at theSpace on the Mile
+  review: Review to follow
+  start: '16:10'
+  end: '17:05'
+  url: https://www.edfringe.com/tickets/whats-on/constellations
+- rank: 505
+  name: 'Alan Bissett: The Red Hourglass'
+  star: SSSS
+  rating: Very Good
+  producer: Alan Bissett
+  location: Stand 2 at The Stand Comedy Club 2
+  review: Review to follow
+  start: '12:20'
+  end: '13:20'
+  url: https://www.edfringe.com/tickets/whats-on/alan-bissett-the-red-hourglass
+- rank: 300
+  name: 'A New Blend at the Royal Oak: Joe Jedson'
+  star: SSS
+  rating: Fair
+  producer: Joe Jedson
+  location: Lounge at The Royal Oak
+  review: Review to follow
+  start: '16:30'
+  end: '17:30'
+  url: https://www.edfringe.com/tickets/whats-on/a-new-blend-at-the-royal-oak-joe-jedson-album-preview
+- rank: 515
+  name: YOAH
+  star: SSSS
+  rating: Very Good
+  producer: Underbelly, Cirquework and Cluster Arts
+  location: "The Lafayette at Underbelly\u2019s Circus Hub on the Meadows"
+  review: Review to follow
+  start: '20:40'
+  end: '21:40'
+  url: https://www.edfringe.com/tickets/whats-on/yoah
