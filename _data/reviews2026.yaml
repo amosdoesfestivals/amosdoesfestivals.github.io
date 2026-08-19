@@ -381,7 +381,7 @@
   start: '12:20'
   end: '13:20'
   url: https://www.edfringe.com/tickets/whats-on/alan-bissett-the-red-hourglass
-- rank: 300
+- rank: 305
   name: 'A New Blend at the Royal Oak: Joe Jedson'
   star: SSS
   rating: Fair
@@ -406,3 +406,29 @@
   start: '20:40'
   end: '21:40'
   url: https://www.edfringe.com/tickets/whats-on/yoah
+- rank: 510
+  name: 'Bebe Cave: Swoon'
+  star: SSSSH
+  rating: Excellent
+  producer: IGHEAD Comedy
+  location: Jack Dome at Pleasance Dome
+  review: This is the second year of seeing Bebe Cave in action. A one person show
+    with many characters, funny, pantomimic, carefully choreagraphed chaos, audience
+    asides and quick fire references that even if you get a thinrd of them you are
+    constantly amused. Bebe Cave is the epitome of the Fringe. I think she is a must
+    see at some point.
+  start: '17:40'
+  end: '18:40'
+  url: https://www.edfringe.com/tickets/whats-on/bebe-cave-swoon
+- rank: 300
+  name: 'Amelia Hamilton: Moral Support'
+  star: SSS
+  rating: Fair
+  producer: Impatient Productions
+  location: Baby Grand at Pleasance Courtyard
+  review: 'Energetic performance with a mix of chat and rap-style comedy from a relatively
+    new comic. It is funny in parts - one or two good lines. The topic is a bit hit
+    and miss - stealing clothes off exes, cheating, etc. '
+  start: '20:20'
+  end: '21:20'
+  url: https://www.edfringe.com/tickets/whats-on/amelia-hamilton-moral-support
