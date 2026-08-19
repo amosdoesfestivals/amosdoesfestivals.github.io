@@ -412,11 +412,11 @@
   rating: Excellent
   producer: IGHEAD Comedy
   location: Jack Dome at Pleasance Dome
-  review: This is the second year of seeing Bebe Cave in action. A one person show
-    with many characters, funny, pantomimic, carefully choreagraphed chaos, audience
-    asides and quick fire references that even if you get a thinrd of them you are
-    constantly amused. Bebe Cave is the epitome of the Fringe. I think she is a must
-    see at some point.
+  review: 'This is the second year of seeing Bebe Cave in action. A one person show
+    with many characters, this was funny, pantomimic, carefully choreagraphed chaos,
+    with audience asides and quick fire references: even if you get a third of them
+    you would be constantly amused. Bebe Cave is the epitome of the Fringe. I think
+    she is a must see at some point.'
   start: '17:40'
   end: '18:40'
   url: https://www.edfringe.com/tickets/whats-on/bebe-cave-swoon
@@ -426,9 +426,28 @@
   rating: Fair
   producer: Impatient Productions
   location: Baby Grand at Pleasance Courtyard
-  review: 'Energetic performance with a mix of chat and rap-style comedy from a relatively
-    new comic. It is funny in parts - one or two good lines. The topic is a bit hit
-    and miss - stealing clothes off exes, cheating, etc. '
+  review: 'This was an energetic performance with a mix of chat and rap-style comedy
+    from a relatively new comic. It is funny in parts - one or two good lines. The
+    topic is a bit hit and miss - stealing clothes off exes, cheating, etc. '
   start: '20:20'
   end: '21:20'
   url: https://www.edfringe.com/tickets/whats-on/amelia-hamilton-moral-support
+- rank: 860
+  name: Cathy
+  star: SSSSH
+  rating: Excellent
+  producer: Traverse Theatre Company
+  location: Traverse 1
+  review: 'It was wonderful to see a full play, with a solid cast, set changes and
+    everything that a big stage can bring. There is always more dynamic in these larger
+    productions than a solo show. Here the domestic tragicomedy themes were tried
+    and tested: family dynamics in a Scottish Catholic family. With wonderful characterisation
+    - impressive for a one-hour show - we see the family dynamics and tensions bounce
+    and evolve. It is a very human play; we can relate to most of the characters,
+    and put ourselves in their shoes. The theme is the changing face of grief, and
+    though it is hard to cover that in 60 minutes without it losing a real sense of
+    time, the play manages to do so, partly through a number of good set tricks which
+    illustrate the passage of time beautfifully. '
+  start: '18:30'
+  end: '18:40'
+  url: https://www.edfringe.com/tickets/whats-on/cathy
