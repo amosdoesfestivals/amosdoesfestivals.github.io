@@ -93,10 +93,10 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
-- rank: 490
+- rank: 500
   name: Forge
-  star: SSSH
-  rating: Good
+  star: SSSS
+  rating: Very Good
   producer: Tom Oakes/Brite Theatre
   location: George Mackay Brown Library at Scottish Storytelling Centre
   review: "Very much one for traditional music fans. Tom Oakes, an Edinburgh multi-instrumentalist\
@@ -406,7 +406,7 @@
   start: '20:40'
   end: '21:40'
   url: https://www.edfringe.com/tickets/whats-on/yoah
-- rank: 510
+- rank: 810
   name: 'Bebe Cave: Swoon'
   star: SSSSH
   rating: Excellent
