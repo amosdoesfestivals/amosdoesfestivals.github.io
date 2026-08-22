@@ -17,7 +17,7 @@
   start: '11:30'
   end: '12:20'
   url: https://www.edfringe.com/tickets/whats-on/bull-fight
-- rank: 220
+- rank: 230
   name: Krapp's Last Tape
   star: SSH
   rating: Okay
@@ -451,3 +451,43 @@
   start: '18:30'
   end: '18:40'
   url: https://www.edfringe.com/tickets/whats-on/cathy
+- rank: 325
+  name: DUKS/NIGHT/DAWN
+  star: SSS
+  rating: Fair
+  producer: VERTICAL DREAMSCAPE
+  location: Central at Assembly Roxy
+  review: A two-person pole-dancing show, with impressive pole dancing with good variety.
+    The filler was necessary for the dancers, but a little random and drawn out. The
+    show was let down by much of the dance being in the dark with the light shining
+    right into the audience, making it both impossible to see and unconfortable.
+  start: '21:30'
+  end: '22:30'
+  url: https://www.edfringe.com/tickets/whats-on/dusk-night-dawn
+- rank: 215
+  name: Confirmation Sponsor Variety Hour
+  star: SSH
+  rating: Okay
+  producer: Emma Quinlan Baxter and Fenton Lio
+  location: Stephenson Theatre at theSpace @ Surgeons' Hall
+  review: I was handed free tickets to this, so the expectations were not high. It
+    was a weirdly catholic-marketed show, that even more embarrasssingly had the mums
+    introducing their childrens' acts. However Emma Baxter was a not-bad comic for
+    a newbie amateur - she needs a bit more variety to her themes, but there is hope.
+    Fenton Lio was an okay singer-songwriter but nothing at the moment to make him
+    stand out from the average guy with guitar.
+  start: '22:45'
+  end: '23:35'
+  url: https://www.edfringe.com/tickets/whats-on/confirmation-sponsor-variety-hour
+- rank: 205
+  name: Best of the Fest
+  star: SSH
+  rating: Okay
+  producer: Assembly Festival
+  location: "Palais du Vari\xE9t\xE9 at Assembly George Square Gardens"
+  review: Any late night variety is pot luck, but I have been to much better late
+    night variety offerings. there were a few laughs, but certainly not best of the
+    fest.
+  start: '23:55'
+  end: 01:10
+  url: https://www.edfringe.com/tickets/whats-on/best-of-the-fest
