@@ -93,11 +93,7 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
-<<<<<<< HEAD
-- rank: 500
-=======
 - rank: 504
->>>>>>> e3a3c68 (Add)
   name: Forge
   star: SSSS
   rating: Very Good
@@ -460,11 +456,7 @@
     introducing their childrens' acts. However Emma Baxter was a not-bad comic for
     a newbie amateur - she needs a bit more variety to her themes, but there is hope.
     Fenton Lio was an okay singer-songwriter but nothing at the moment to make him
-<<<<<<< HEAD
-    stand out from the average guy with guitar.
-=======
     stand out from the average guy with a guitar.
->>>>>>> e3a3c68 (Add)
   start: '22:45'
   end: '23:35'
   url: https://www.edfringe.com/tickets/whats-on/confirmation-sponsor-variety-hour
@@ -480,8 +472,6 @@
   start: '23:55'
   end: 01:10
   url: https://www.edfringe.com/tickets/whats-on/best-of-the-fest
-<<<<<<< HEAD
-=======
 - rank: 390
   name: Collaborator
   star: SSS
@@ -527,4 +517,3 @@
   start: '19:40'
   end: '20:40'
   url: https://www.edfringe.com/tickets/whats-on/alan-bennett-s-talking-heads
->>>>>>> e3a3c68 (Add)
