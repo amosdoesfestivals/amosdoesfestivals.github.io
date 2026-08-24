@@ -93,7 +93,11 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
+<<<<<<< HEAD
 - rank: 500
+=======
+- rank: 504
+>>>>>>> e3a3c68 (Add)
   name: Forge
   star: SSSS
   rating: Very Good
@@ -456,7 +460,11 @@
     introducing their childrens' acts. However Emma Baxter was a not-bad comic for
     a newbie amateur - she needs a bit more variety to her themes, but there is hope.
     Fenton Lio was an okay singer-songwriter but nothing at the moment to make him
+<<<<<<< HEAD
     stand out from the average guy with guitar.
+=======
+    stand out from the average guy with a guitar.
+>>>>>>> e3a3c68 (Add)
   start: '22:45'
   end: '23:35'
   url: https://www.edfringe.com/tickets/whats-on/confirmation-sponsor-variety-hour
@@ -472,3 +480,51 @@
   start: '23:55'
   end: 01:10
   url: https://www.edfringe.com/tickets/whats-on/best-of-the-fest
+<<<<<<< HEAD
+=======
+- rank: 390
+  name: Collaborator
+  star: SSS
+  rating: Good
+  producer: Ockham's Razor produced by Turtle Key Arts
+  location: Pentland Theatre at Pleasance at EICC
+  review: Veterans of the fringe, Ockham's Razor's Artistic Directors Alex and Charlotte
+    return after a long hiatus for a varied program of aerial and ground acrobatics,
+    along with signature pendulum  and gravity acts. The poise of the first aerial
+    performance was excellent.
+  start: '17:00'
+  end: '17:55'
+  url: https://www.edfringe.com/tickets/whats-on/collaborator
+- rank: 100
+  name: Lions
+  star: SH
+  rating: Bad
+  producer: Lightning Rod Special
+  location: TechCube 0 at Summerhall
+  review: A mess of a script of disconnected farce preceding a message about fathers.
+    The acting was poor even for farce, and was substantially pointless shouting.
+    One fringe audience review said "I think they thought they were zanier than they
+    were." Indeed I think they did.
+  start: '19:30'
+  end: '20:30'
+  url: https://www.edfringe.com/tickets/whats-on/lions
+- rank: 460
+  name: Alan Bennett's Talking Heads
+  star: SSSH
+  rating: Good
+  producer: The Next Act
+  location: The Speakeasy at The Speakeasy at The Royal Scots Club
+  review: Depending on the performance, you see different pairs of these four shows.
+    I saw "Her Big Chance" and "Cream Cracker Under the Settee". Both are a bit dated
+    now, but still potent. Her Big Chance was good - somewhat overacted and lacking
+    variety (it can get away with this a bit as it is presenting an actor) but still
+    powerful in its own way! Its a powerful script contrasting what we are willing
+    to overlook, or what ideations we read into or even to push into a setting to
+    maintain our own sense of value. Perhaps some of us recognise this in our own
+    (hopefully different) workplaces. Cream Cracker under the Settee was less powerfully
+    presented, but is still a good reflection on loneliness and how we can build our
+    own isolation. Altogether definitiely worth a see.
+  start: '19:40'
+  end: '20:40'
+  url: https://www.edfringe.com/tickets/whats-on/alan-bennett-s-talking-heads
+>>>>>>> e3a3c68 (Add)
