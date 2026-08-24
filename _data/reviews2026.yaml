@@ -93,7 +93,7 @@
   start: '18:25'
   end: '19:25'
   url: https://www.edfringe.com/tickets/whats-on/gail-porter-portergeist
-- rank: 504
+- rank: 503
   name: Forge
   star: SSSS
   rating: Very Good
@@ -472,9 +472,9 @@
   start: '23:55'
   end: 01:10
   url: https://www.edfringe.com/tickets/whats-on/best-of-the-fest
-- rank: 390
+- rank: 420
   name: Collaborator
-  star: SSS
+  star: SSSH
   rating: Good
   producer: Ockham's Razor produced by Turtle Key Arts
   location: Pentland Theatre at Pleasance at EICC
@@ -485,7 +485,7 @@
   start: '17:00'
   end: '17:55'
   url: https://www.edfringe.com/tickets/whats-on/collaborator
-- rank: 100
+- rank: 90
   name: Lions
   star: SH
   rating: Bad
