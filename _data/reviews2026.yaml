@@ -532,3 +532,27 @@
   start: '18:55'
   end: '19:45'
   url: https://www.edfringe.com/tickets/whats-on/twitch
+- rank: 501
+  name: 'Adam Riches: The Captain'
+  star: SSSS
+  rating: Very Good
+  producer: Park Theatre Productions and Tigco present
+  location: Dissection Room at Summerhall
+  review: Excellent storytelling, and a study on the nature of personal achievement,
+    the fickle public and how achievement itself, however great, can lose its sense
+    of worth.
+  start: '19:00'
+  end: '20:00'
+  url: https://www.edfringe.com/tickets/whats-on/adam-riches-the-captain
+- rank: 350
+  name: 'Sam Eley is Basil Crumbwick: Soul Sewage'
+  star: SSS
+  rating: Fair
+  producer: 'BIGHEAD Comedy '
+  location: Monkey Barrel 2 at Monkey Barrel Comedy
+  review: Sam Eley pulls out his character comedy again. Plenty of good lines from
+    the an unfortunately recognisable malcontent. Not quite deserving of the hype.
+    but a fair show.
+  start: '21:55'
+  end: '22:55'
+  url: https://www.edfringe.com/tickets/whats-on/sam-eley-is-basil-crumbwick-soul-sewage
