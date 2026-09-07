@@ -1,4 +1,4 @@
-- rank: 200
+- rank: 201
   name: Bull / Fight
   star: SSH
   rating: Okay
@@ -517,7 +517,7 @@
   start: '19:40'
   end: '20:40'
   url: https://www.edfringe.com/tickets/whats-on/alan-bennett-s-talking-heads
-- rank: 210
+- rank: 211
   name: TWITCH
   star: SSH
   rating: Okay
@@ -658,3 +658,19 @@
   start: '21:15'
   end: '22:15'
   url: https://www.edfringe.com/tickets/whats-on/the-singer
+- rank: 190
+  name: Amazing Life Gospel Choir Lunchtime Event
+  star: SS
+  rating: Poor
+  producer: Amazing Life Gospel Choir, directed by Angela MacKenzie
+  location: Cathedral at St Giles' Cathedral
+  review: To be clear, this was not the main evening choir concert, but a free lunchtime
+    event. Therefore, this should not be taken as a review of the evening performance,
+    which I did not attend. Even so, the lunchtime performance was marketed as a choir
+    but was not; instead, it featured the choir leader and a few other members delivering
+    a solo choral and instrumental performance. In gospel music terms, it felt more
+    like an American TV evangelist programme than a Southern Black Baptist service.
+    Altogether, it was far too saccharine for me.
+  start: '13:00'
+  end: '14:00'
+  url: https://www.edfringe.com/tickets/whats-on/amazing-life-gospel-choir-in-concert
