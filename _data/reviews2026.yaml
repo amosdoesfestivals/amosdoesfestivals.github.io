@@ -538,9 +538,9 @@
   rating: Very Good
   producer: Park Theatre Productions and Tigco present
   location: Dissection Room at Summerhall
-  review: Excellent storytelling, and a study on the nature of personal achievement,
-    the fickle public and how achievement itself, however great, can lose its sense
-    of worth.
+  review: In The Captain, we enjoyed excellent storytelling, and a study on the nature
+    of personal achievement, the fickle public and how achievement itself, however
+    great, can lose its sense of worth.
   start: '19:00'
   end: '20:00'
   url: https://www.edfringe.com/tickets/whats-on/adam-riches-the-captain
@@ -550,9 +550,9 @@
   rating: Fair
   producer: 'BIGHEAD Comedy '
   location: Monkey Barrel 2 at Monkey Barrel Comedy
-  review: Sam Eley pulls out his character comedy again. Plenty of good lines from
-    the an unfortunately recognisable malcontent. Not quite deserving of the hype.
-    but a fair show.
+  review: Sam Eley pulls out his character comedy again. There were plenty of good
+    lines from the an unfortunately recognisable malcontent. It is not quite deserving
+    of the hype. but a fair show.
   start: '21:55'
   end: '22:55'
   url: https://www.edfringe.com/tickets/whats-on/sam-eley-is-basil-crumbwick-soul-sewage
@@ -562,10 +562,11 @@
   rating: Fair
   producer: House of Oz and Theatre Republic
   location: Former Gents Locker Room at Summerhall
-  review: A well acted solo storytelling performance of a bad-to-worse variety, looking
-    at what we feel when we fill in the backstory to a 2 minute audition rejection.
-    Sadly, the qulaity of the acting was not well matched by the script which was
-    a bit too repetitive and one dimensional for an hour.
+  review: A well acted solo storytelling performance of a bad-to-worse variety, this
+    show starts with a 2 minute audition rejection and then fills in the backstory.
+    We realise things that seem simple everyday occurances to some are life-defining
+    moments to others. Sadly, the quality of the acting was not well matched by the
+    script which was a bit too repetitive and one dimensional for an hour.
   start: '21:20'
   end: '22:20'
   url: https://www.edfringe.com/tickets/whats-on/how-not-to-make-it-in-america
@@ -575,11 +576,85 @@
   rating: Very Good
   producer: Farah Ashraf and NAZAR Arts, Little Stitch Productions
   location: Daisy at Underbelly, Bristo Square
-  review: A look at family relationships within a single parent Pakistani familiy
-    and its impact on teenage desires. A well performed play, foillowing an 18 year
-    old who finds their way into onine sex performance, and the impact on self worth.
-    The show feels fairly standard but packs some punches towards the end which lifts
-    it beyond a simple tale.
+  review: Pink Rabbit looks at family relationships within a single parent Pakistani
+    familiy and its impact on teenage desires. A well performed play, we follow an
+    18 year old who finds their way into online sex performance, and see an interesting
+    dichotomous impact on self worth. The show feels fairly standard initially but
+    packs some punches towards the end which lifts it beyond a simple tale.
   start: '16:15'
   end: '17:15'
   url: https://www.edfringe.com/tickets/whats-on/pink-rabbit
+- rank: 415
+  name: JOSIAH
+  star: SSSH
+  rating: Good
+  producer: Thousand Miles of Bricks Productions
+  location: Theatre 1 at theSpace @ Surgeons' Hall
+  review: 'Josiah is a portrayal of the real-world story of a slave''s journey to
+    freedom in Canada. A very human tale, this play is acted from the first person
+    persective of the Josiah, but with other characters also being portrayed by the
+    solo performer. It provides a real sense of the challenges a slave might face
+    when viewed from the everyday decisions, the practicalities of circumstance and
+    the relationships involved. '
+  start: '17:55'
+  end: '19:10'
+  url: https://www.edfringe.com/tickets/whats-on/josiah
+- rank: 820
+  name: 'Chip and Gus: A Comedy with Balls'
+  star: SSSSH
+  rating: Excellent
+  producer: Fat Knight Theatre (New York City)
+  location: Venue 45 at theSpace @ Venue 45
+  review: Chip and Gus engage in a verbal table-tennis game during a physical table-tennis
+    game. I found this both funny and very clever. And the show was fast paced and
+    just about short enough to pull it off. There was an interesting dynamic between
+    two very different players both on the table and in the world. Altogether Chip
+    and gus was fun, interesting and original for a fringe show.
+  start: '18:20'
+  end: '19:25'
+  url: https://www.edfringe.com/tickets/whats-on/chip-and-gus-a-comedy-with-balls
+- rank: 315
+  name: The Sumo Show HIRAKUZA
+  star: SSS
+  rating: Fair
+  producer: Underbelly and The Sumo Hall HIRAKUZA
+  location: Udderbelly at Underbelly, George Square
+  review: 'We are provided with an education and demonstration in Sumo. There is nothing
+    too unexpected, but the show does have a fun for the family sort of feel to it. '
+  start: '18:00'
+  end: '19:00'
+  url: https://www.edfringe.com/tickets/whats-on/the-sumo-show-hirakuza
+- rank: 905
+  name: EXIT
+  star: SSSSH
+  rating: Excellent
+  producer: Circumstances
+  location: Main House at ZOO Southside
+  review: "This outstanding choreographic acrobatics features a continuum of movement,\
+    \ as four acrobats weave from disordered door-slamming into a coordinated, fluid,\
+    \ and dynamic balance before slowly retiring. There is no great crescendo, but\
+    \ there is also no stopping\u2014leaving no time for breath, akin to waves continually\
+    \ breaking on the shore as the wind picks up and dies down. It is as much dance\
+    \ as it is acrobatics. If you only care about impressive feats, this is not the\
+    \ show for you, but if you like your acrobatics to be holistic, few shows have\
+    \ the edge on this."
+  start: '10:30'
+  end: '11:30'
+  url: https://www.edfringe.com/tickets/whats-on/exit
+- rank: 515
+  name: The Singer
+  star: SSSS
+  rating: Very Good
+  producer: Dundee Rep Theatre, Solar Bear collaborating with Aberdeen Performing
+    Arts
+  location: raverse Theatre - Traverse 1
+  review: The Singer is a stunning performance featuring highly original use of signing,
+    very visible surtitles, and spoken word. It tells the tale of a deaf person trying
+    to make inroads into music writing and performing. While the show is slightly
+    preachy and the story mildly unbelievable, bucking at real-world physical constraints,
+    it also doesn't take itself too seriously. Ultimately, the biggest win for the
+    production is the sheer number of deaf and hard-of-hearing audience members who
+    were able to come and enjoy the show as fully as anyone.
+  start: '21:15'
+  end: '22:15'
+  url: https://www.edfringe.com/tickets/whats-on/the-singer
